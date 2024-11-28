@@ -528,7 +528,11 @@
       "minecraft:dark_forest": "2024-11-28 17:17:02 +0000",
       "minecraft:sparse_jungle": "2024-11-28 16:44:25 +0000",
       "minecraft:river": "2024-11-28 04:19:04 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 17:34:09 +0000",
+      "minecraft:stony_shore": "2024-11-28 17:33:10 +0000",
+      "minecraft:grove": "2024-11-28 17:30:50 +0000",
       "minecraft:forest": "2024-11-28 04:07:51 +0000",
+      "minecraft:jungle": "2024-11-28 17:33:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-28 17:11:28 +0000",
       "minecraft:savanna": "2024-11-28 16:41:30 +0000",
       "minecraft:plains": "2024-11-28 04:23:06 +0000"
@@ -676,9 +680,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "beautify:frames": {
     "criteria": {
-      "iron_helmet": "2024-11-28 17:02:11 +0000"
+      "requirement": "2024-11-28 16:39:28 +0000"
     },
     "done": true
   },
@@ -694,21 +698,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "fusion:thyrium_bow": {
     "criteria": {
-      "slept_in_bed": "2024-11-28 16:43:52 +0000"
-    },
-    "done": true
-  },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2024-11-28 16:59:21 +0000"
-    },
-    "done": true
-  },
-  "beautify:frames": {
-    "criteria": {
-      "requirement": "2024-11-28 16:39:28 +0000"
+      "has_item": "2024-11-28 16:39:34 +0000"
     },
     "done": true
   },
@@ -716,13 +708,15 @@
     "criteria": {
       "cooked_porkchop": "2024-11-28 17:16:04 +0000",
       "cooked_mutton": "2024-11-28 16:48:47 +0000",
-      "apple": "2024-11-28 16:41:36 +0000"
+      "apple": "2024-11-28 16:41:36 +0000",
+      "bread": "2024-11-28 17:43:50 +0000",
+      "melon_slice": "2024-11-28 17:38:06 +0000"
     },
     "done": false
   },
-  "fusion:thyrium_bow": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_item": "2024-11-28 16:39:34 +0000"
+      "slept_in_bed": "2024-11-28 16:43:52 +0000"
     },
     "done": true
   },
@@ -732,12 +726,30 @@
     },
     "done": true
   },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-11-28 16:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-11-28 17:02:11 +0000"
+    },
+    "done": true
+  },
   "ae2:main/presses": {
     "criteria": {
       "calculation": "2024-11-28 17:14:22 +0000",
       "silicon": "2024-11-28 17:14:22 +0000",
       "engineering": "2024-11-28 17:14:22 +0000",
       "logic": "2024-11-28 17:14:22 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-11-28 17:36:13 +0000"
     },
     "done": true
   },
