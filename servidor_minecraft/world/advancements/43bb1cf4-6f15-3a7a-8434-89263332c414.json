@@ -523,9 +523,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-11-28 17:10:10 +0000",
       "minecraft:beach": "2024-11-28 04:08:13 +0000",
+      "minecraft:dark_forest": "2024-11-28 17:17:02 +0000",
+      "minecraft:sparse_jungle": "2024-11-28 16:44:25 +0000",
       "minecraft:river": "2024-11-28 04:19:04 +0000",
       "minecraft:forest": "2024-11-28 04:07:51 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-28 17:11:28 +0000",
+      "minecraft:savanna": "2024-11-28 16:41:30 +0000",
       "minecraft:plains": "2024-11-28 04:23:06 +0000"
     },
     "done": false
@@ -580,6 +585,7 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "elderberry_seed": "2024-11-28 17:10:38 +0000",
       "tomato_seed": "2024-11-28 04:18:53 +0000",
       "grape_seed": "2024-11-28 16:04:23 +0000"
     },
@@ -589,6 +595,7 @@
     "criteria": {
       "sweetpotato_seed": "2024-11-28 16:35:59 +0000",
       "bellpepper_seed": "2024-11-28 16:02:16 +0000",
+      "elderberry_seed": "2024-11-28 17:10:38 +0000",
       "tomato_seed": "2024-11-28 04:18:53 +0000",
       "chile_pepper_seed": "2024-11-28 16:04:09 +0000",
       "cucumber_seed": "2024-11-28 15:54:52 +0000",
@@ -669,6 +676,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-11-28 17:02:11 +0000"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2024-11-28 16:39:34 +0000"
@@ -681,15 +694,50 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-28 16:43:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-11-28 16:59:21 +0000"
+    },
+    "done": true
+  },
   "beautify:frames": {
     "criteria": {
       "requirement": "2024-11-28 16:39:28 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-28 17:16:04 +0000",
+      "cooked_mutton": "2024-11-28 16:48:47 +0000",
+      "apple": "2024-11-28 16:41:36 +0000"
+    },
+    "done": false
+  },
   "fusion:thyrium_bow": {
     "criteria": {
       "has_item": "2024-11-28 16:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-28 16:46:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2024-11-28 17:14:22 +0000",
+      "silicon": "2024-11-28 17:14:22 +0000",
+      "engineering": "2024-11-28 17:14:22 +0000",
+      "logic": "2024-11-28 17:14:22 +0000"
     },
     "done": true
   },
