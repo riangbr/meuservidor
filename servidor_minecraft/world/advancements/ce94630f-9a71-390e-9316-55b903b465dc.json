@@ -551,14 +551,19 @@
       "sweetpotato_seed": "2024-11-28 04:21:15 +0000",
       "bellpepper_seed": "2024-11-28 17:48:21 +0000",
       "cantaloupe_seed": "2024-11-28 03:48:36 +0000",
+      "vanilla_seeds": "2024-11-28 18:20:14 +0000",
+      "honeydew_seed": "2024-11-28 18:23:12 +0000",
       "elderberry_seed": "2024-11-28 03:48:11 +0000",
       "tomato_seed": "2024-11-28 03:48:32 +0000",
+      "greenbean_seed": "2024-11-28 18:13:01 +0000",
       "pepper_seed": "2024-11-28 04:13:07 +0000",
       "chile_pepper_seed": "2024-11-28 04:13:11 +0000",
       "tomatillo_seed": "2024-11-28 15:41:58 +0000",
+      "onion_seed": "2024-11-28 18:20:15 +0000",
       "strawberry_seed": "2024-11-28 03:49:00 +0000",
       "grape_seed": "2024-11-28 03:48:20 +0000",
       "celery_seed": "2024-11-28 15:41:53 +0000",
+      "greenonion_seed": "2024-11-28 18:20:11 +0000",
       "barley_seed": "2024-11-28 04:13:09 +0000",
       "raspberry_seed": "2024-11-28 15:41:57 +0000",
       "lettuce_seed": "2024-11-28 04:13:17 +0000",
@@ -676,6 +681,7 @@
   "croptopia:gather_plains": {
     "criteria": {
       "lettuce_seed": "2024-11-28 04:13:17 +0000",
+      "greenbean_seed": "2024-11-28 18:13:01 +0000",
       "sweetpotato_seed": "2024-11-28 04:21:15 +0000",
       "pepper_seed": "2024-11-28 04:13:07 +0000",
       "chile_pepper_seed": "2024-11-28 04:13:11 +0000",
@@ -737,6 +743,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2024-11-28 18:13:57 +0000",
       "wheat": "2024-11-28 04:27:21 +0000"
     },
     "done": false
@@ -861,6 +868,40 @@
       "tamed_animal": "2024-11-28 17:52:35 +0000"
     },
     "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-11-28 18:18:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_jungle": {
+    "criteria": {
+      "cinnamon_sapling": "2024-11-28 18:18:34 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getsapling": {
+    "criteria": {
+      "has_sapling": "2024-11-28 18:18:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "greenonion_seed": "2024-11-28 18:20:11 +0000",
+      "vanilla_seeds": "2024-11-28 18:20:14 +0000",
+      "pineapple_seed": "2024-11-28 18:20:09 +0000",
+      "honeydew_seed": "2024-11-28 18:23:12 +0000",
+      "onion_seed": "2024-11-28 18:20:15 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_tree_all": {
+    "criteria": {
+      "cinnamon_sapling": "2024-11-28 18:18:34 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
