@@ -2499,3 +2499,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 17:41:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz joined the game
 [28Nov2024 17:41:57.113] [Server thread/INFO] [Jade/]: Syncing config to BatatinhaFeliz (ce94630f-9a71-390e-9316-55b903b465dc)
 [28Nov2024 17:41:57.658] [Server thread/INFO] [ping-wheel/]: Channel update: BatatinhaFeliz -> default
+[28Nov2024 17:52:31.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[28Nov2024 17:52:35.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Best Friends Forever]

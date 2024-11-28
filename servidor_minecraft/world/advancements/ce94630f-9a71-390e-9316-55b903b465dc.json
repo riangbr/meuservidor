@@ -549,6 +549,7 @@
   "croptopia:gather_all": {
     "criteria": {
       "sweetpotato_seed": "2024-11-28 04:21:15 +0000",
+      "bellpepper_seed": "2024-11-28 17:48:21 +0000",
       "cantaloupe_seed": "2024-11-28 03:48:36 +0000",
       "elderberry_seed": "2024-11-28 03:48:11 +0000",
       "tomato_seed": "2024-11-28 03:48:32 +0000",
@@ -667,6 +668,7 @@
       "beef": "2024-11-28 04:29:41 +0000",
       "apple": "2024-11-28 04:16:15 +0000",
       "mutton": "2024-11-28 03:56:25 +0000",
+      "bread": "2024-11-28 17:56:11 +0000",
       "cooked_chicken": "2024-11-28 04:31:31 +0000"
     },
     "done": false
@@ -677,6 +679,7 @@
       "sweetpotato_seed": "2024-11-28 04:21:15 +0000",
       "pepper_seed": "2024-11-28 04:13:07 +0000",
       "chile_pepper_seed": "2024-11-28 04:13:11 +0000",
+      "bellpepper_seed": "2024-11-28 17:48:21 +0000",
       "corn_seed": "2024-11-28 04:13:00 +0000",
       "oat_seed": "2024-11-28 04:13:13 +0000",
       "mustard_seed": "2024-11-28 04:21:20 +0000",
@@ -850,6 +853,12 @@
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2024-11-28 17:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-28 17:52:35 +0000"
     },
     "done": true
   },
