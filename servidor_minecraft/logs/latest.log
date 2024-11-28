@@ -2590,3 +2590,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 04:14:27.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Timed out
 [28Nov2024 04:14:27.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
 [28Nov2024 04:14:27.543] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 04:17:01.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Stone Age]
+[28Nov2024 04:17:48.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Getting an Upgrade]
+[28Nov2024 04:18:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [An Extra Seedy Place]
+[28Nov2024 04:22:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Sweet Dreams]

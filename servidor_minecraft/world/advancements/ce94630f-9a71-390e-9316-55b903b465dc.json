@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-11-28 04:19:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:40:12 +0000"
@@ -187,6 +193,12 @@
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2024-11-28 03:40:11 +0000"
+    },
+    "done": true
+  },
+  "fusion:sinisite_bow": {
+    "criteria": {
+      "has_item": "2024-11-28 04:19:39 +0000"
     },
     "done": true
   },
@@ -318,12 +330,19 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2024-11-28 04:21:15 +0000",
       "cantaloupe_seed": "2024-11-28 03:48:36 +0000",
       "elderberry_seed": "2024-11-28 03:48:11 +0000",
       "tomato_seed": "2024-11-28 03:48:32 +0000",
+      "pepper_seed": "2024-11-28 04:13:07 +0000",
+      "chile_pepper_seed": "2024-11-28 04:13:11 +0000",
       "strawberry_seed": "2024-11-28 03:49:00 +0000",
       "grape_seed": "2024-11-28 03:48:20 +0000",
-      "blackberry_seed": "2024-11-28 03:43:57 +0000"
+      "barley_seed": "2024-11-28 04:13:09 +0000",
+      "lettuce_seed": "2024-11-28 04:13:17 +0000",
+      "blackberry_seed": "2024-11-28 03:43:57 +0000",
+      "corn_seed": "2024-11-28 04:13:00 +0000",
+      "oat_seed": "2024-11-28 04:13:13 +0000"
     },
     "done": false
   },
@@ -383,6 +402,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-11-28 04:19:37 +0000",
       "minecraft:zombie": "2024-11-28 03:46:58 +0000"
     },
     "done": false
@@ -441,6 +461,18 @@
     },
     "done": true
   },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "lettuce_seed": "2024-11-28 04:13:17 +0000",
+      "sweetpotato_seed": "2024-11-28 04:21:15 +0000",
+      "pepper_seed": "2024-11-28 04:13:07 +0000",
+      "chile_pepper_seed": "2024-11-28 04:13:11 +0000",
+      "corn_seed": "2024-11-28 04:13:00 +0000",
+      "oat_seed": "2024-11-28 04:13:13 +0000",
+      "barley_seed": "2024-11-28 04:13:09 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:40:12 +0000"
@@ -483,6 +515,7 @@
       "minecraft:sparse_jungle": "2024-11-28 04:00:06 +0000",
       "minecraft:river": "2024-11-28 03:44:20 +0000",
       "minecraft:forest": "2024-11-28 03:40:12 +0000",
+      "minecraft:savanna": "2024-11-28 04:18:20 +0000",
       "minecraft:plains": "2024-11-28 03:57:34 +0000"
     },
     "done": false
@@ -516,6 +549,12 @@
       "has_the_recipe": "2024-11-28 03:40:12 +0000"
     },
     "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "orange": "2024-11-28 04:18:36 +0000"
+    },
+    "done": false
   },
   "exlinefurniture:recipes/misc/stone": {
     "criteria": {
@@ -555,6 +594,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-11-28 04:16:15 +0000",
       "mutton": "2024-11-28 03:56:25 +0000"
     },
     "done": false
@@ -592,6 +632,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:40:12 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_bow": {
+    "criteria": {
+      "has_item": "2024-11-28 04:19:39 +0000"
     },
     "done": true
   },

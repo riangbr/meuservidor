@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomato_seed": "2024-11-28 04:18:53 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-28 04:17:01 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2024-11-28 04:07:50 +0000"
@@ -194,6 +206,12 @@
   "beachparty:hammock": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-28 04:17:48 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "tomato_seed": "2024-11-28 04:18:53 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-11-28 04:07:50 +0000"
@@ -344,6 +368,12 @@
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-11-28 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-11-28 04:18:53 +0000"
     },
     "done": true
   },
@@ -422,6 +452,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-11-28 04:08:13 +0000",
+      "minecraft:river": "2024-11-28 04:19:04 +0000",
       "minecraft:forest": "2024-11-28 04:07:51 +0000"
     },
     "done": false
@@ -447,6 +478,12 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "exlinefurniture:recipes/misc/stone": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 04:17:01 +0000"
     },
     "done": true
   },
