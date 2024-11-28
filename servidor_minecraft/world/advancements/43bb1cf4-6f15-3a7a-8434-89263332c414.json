@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-28 04:24:58 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-11-28 04:07:50 +0000"
@@ -453,7 +459,8 @@
     "criteria": {
       "minecraft:beach": "2024-11-28 04:08:13 +0000",
       "minecraft:river": "2024-11-28 04:19:04 +0000",
-      "minecraft:forest": "2024-11-28 04:07:51 +0000"
+      "minecraft:forest": "2024-11-28 04:07:51 +0000",
+      "minecraft:plains": "2024-11-28 04:23:06 +0000"
     },
     "done": false
   },
