@@ -869,12 +869,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2024-11-28 18:18:50 +0000"
-    },
-    "done": true
-  },
   "croptopia:gather_tree_jungle": {
     "criteria": {
       "cinnamon_sapling": "2024-11-28 18:18:34 +0000"
@@ -887,6 +881,18 @@
     },
     "done": true
   },
+  "croptopia:gather_tree_all": {
+    "criteria": {
+      "cinnamon_sapling": "2024-11-28 18:18:34 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-11-28 18:18:50 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_jungle": {
     "criteria": {
       "greenonion_seed": "2024-11-28 18:20:11 +0000",
@@ -894,12 +900,6 @@
       "pineapple_seed": "2024-11-28 18:20:09 +0000",
       "honeydew_seed": "2024-11-28 18:23:12 +0000",
       "onion_seed": "2024-11-28 18:20:15 +0000"
-    },
-    "done": false
-  },
-  "croptopia:gather_tree_all": {
-    "criteria": {
-      "cinnamon_sapling": "2024-11-28 18:18:34 +0000"
     },
     "done": false
   },
