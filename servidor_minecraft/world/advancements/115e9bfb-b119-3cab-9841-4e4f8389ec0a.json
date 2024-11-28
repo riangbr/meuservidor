@@ -604,6 +604,7 @@
     "criteria": {
       "elderberry_seed": "2024-11-28 03:38:23 +0000",
       "tomato_seed": "2024-11-28 03:53:12 +0000",
+      "greenbean_seed": "2024-11-28 20:22:00 +0000",
       "chile_pepper_seed": "2024-11-28 17:38:53 +0000",
       "tomatillo_seed": "2024-11-28 03:59:47 +0000",
       "blueberry_seed": "2024-11-28 03:54:06 +0000",
@@ -682,6 +683,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "greenbean_seed": "2024-11-28 20:22:00 +0000",
       "chile_pepper_seed": "2024-11-28 17:38:53 +0000"
     },
     "done": false
