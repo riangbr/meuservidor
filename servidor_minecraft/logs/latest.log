@@ -2448,3 +2448,145 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 03:43:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> vou ver se acho um centro tbm,
 [28Nov2024 03:43:57.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [An Extra Seedy Place]
 [28Nov2024 03:44:53.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[28Nov2024 03:45:54.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Stone Age]
+[28Nov2024 03:46:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Getting an Upgrade]
+[28Nov2024 03:46:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc has made the advancement [Getting an Upgrade]
+[28Nov2024 03:46:58.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Monster Hunter]
+[28Nov2024 03:48:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rianofc: Added BatatinhaFeliz to the whitelist]
+[28Nov2024 03:48:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rianofc: Added rianofc to the whitelist]
+[28Nov2024 03:48:49.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rianofc: Whitelist is now turned on]
+[28Nov2024 03:49:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> pra nenhum estranho entrar kkk
+[28Nov2024 03:49:12.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[28Nov2024 03:49:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> oq?
+[28Nov2024 03:49:39.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> não apareceu pra tu não?
+[28Nov2024 03:49:51.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> não vi oq??
+[28Nov2024 03:50:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> te botei na lista de quem pode entrar
+[28Nov2024 03:50:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> ai aparece uma msg
+[28Nov2024 03:50:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> nem percebi cara kkkkk
+[28Nov2024 03:52:04.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> man so tem arvore nessa caceta kk
+[28Nov2024 03:52:11.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> sim manop
+[28Nov2024 03:52:11.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc has made the advancement [Sky of Beginning]
+[28Nov2024 03:52:25.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> e a porra da fome ta ridicula
+[28Nov2024 03:52:31.013] [pool-14-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic]] from pos BlockPos{x=437, y=67, z=-581}
+[28Nov2024 03:52:33.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[28Nov2024 03:52:33.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz moved too quickly! 5.448572765220604,0.0,-8.389636573407472
+[28Nov2024 03:52:33.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> poise
+[28Nov2024 03:52:36.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! 7.814538058551136,0.7358406727282727,6.334778766895994
+[28Nov2024 03:52:36.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz moved too quickly! 5.651143822406823,0.41999998688697815,-8.472107983557919
+[28Nov2024 03:52:46.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Sadly, Won't Give More FPS]
+[28Nov2024 03:53:01.947] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: structory:harvest/well_bottoms
+[28Nov2024 03:53:22.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[28Nov2024 03:53:25.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[28Nov2024 03:53:25.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[28Nov2024 03:53:25.914] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[28Nov2024 03:53:54.014] [pool-14-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga]] from pos BlockPos{x=661, y=72, z=-485}
+[28Nov2024 03:53:57.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3220ms or 64 ticks behind
+[28Nov2024 03:53:57.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 9.327186704992073,0.0,3.8717469702643825
+[28Nov2024 03:53:57.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 9.6551890889383,0.0,4.091449781613846
+[28Nov2024 03:53:57.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 9.98080945689037,0.0,4.315154978397061
+[28Nov2024 03:53:57.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 10.30369821184945,0.0,4.543135340371123
+[28Nov2024 03:53:57.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 10.623108826856878,0.0,4.776062708296479
+[28Nov2024 03:53:57.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 10.937928595440098,0.0,5.01488315610942
+[28Nov2024 03:53:57.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 11.246707271863784,0.0,5.260685939335133
+[28Nov2024 03:53:57.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 11.547674877096256,0.0,5.514585310243888
+[28Nov2024 03:53:57.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 11.838766717029785,0.0,5.777605275990311
+[28Nov2024 03:53:57.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 12.117657184645168,0.0,6.050572485339501
+[28Nov2024 03:53:57.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 12.382455056870526,0.0,6.333787053821197
+[28Nov2024 03:53:57.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 12.631685368592343,0.0,6.6271618747689445
+[28Nov2024 03:53:57.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 12.864250834137238,0.0,6.930336659468139
+[28Nov2024 03:53:57.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! 8.30728349357048,2.249187078744683,5.27650965771781
+[28Nov2024 03:53:57.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 13.079402410930584,0.0,7.242764386900205
+[28Nov2024 03:53:57.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 13.276684632419688,0.0,7.563782488669517
+[28Nov2024 03:53:57.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 13.455898684283397,0.0,7.892664152591465
+[28Nov2024 03:53:57.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 13.617064773483321,0.0,8.228657440220275
+[28Nov2024 03:53:57.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 13.760373731429013,0.0,8.571013503979088
+[28Nov2024 03:53:57.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 13.886164492552894,0.0,8.919006763444202
+[28Nov2024 03:53:57.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 13.994887251909631,0.0,9.271948008781578
+[28Nov2024 03:53:57.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 14.087776608582885,0.0,9.629286267633574
+[28Nov2024 03:53:57.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 14.166682386737762,0.0,9.99061424111892
+[28Nov2024 03:53:57.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! 14.233937223384714,0.0,10.355632259017398
+[28Nov2024 03:53:58.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.5408729279827185,0.0,-8.949903020565273
+[28Nov2024 03:53:58.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved too quickly! -5.459723537026434,0.0,-8.580935034869242
+[28Nov2024 03:53:59.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[28Nov2024 03:54:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> mano dorme ai kkk
+[28Nov2024 03:54:27.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> esqueci a cama kkkk7
+[28Nov2024 03:54:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> mds
+[28Nov2024 03:55:04.549] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/CraterType
+[28Nov2024 03:55:04.551] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/fallout/FalloutMode
+[28Nov2024 03:55:45.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[28Nov2024 03:55:51.997] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[28Nov2024 03:56:01.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[28Nov2024 03:56:01.341] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[28Nov2024 03:56:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> pqpq
+[28Nov2024 03:56:20.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> to com 2 coração
+[28Nov2024 03:56:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc was blown up by Creeper
+[28Nov2024 03:56:29.831] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Nov2024 03:57:01.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> amem kkkkkk
+[28Nov2024 03:57:06.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> kakak
+[28Nov2024 04:01:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> avhei um lugar muito bom
+[28Nov2024 04:02:12.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> [x:1156, y:86, z:-11, dim:minecraft:overworld]
+[28Nov2024 04:02:35.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz was slain by Komodo Dragon
+[28Nov2024 04:02:40.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> oq?
+[28Nov2024 04:02:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> kskksks
+[28Nov2024 04:03:05.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> morri pra um dragão comodo
+[28Nov2024 04:03:25.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[28Nov2024 04:03:54.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> TO INDO AI
+[28Nov2024 04:03:58.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> blz
+[28Nov2024 04:04:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> clica em cima do bagulho azul que ele add um waypoint
+[28Nov2024 04:04:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> SIM
+[28Nov2024 04:06:20.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@eaccd97[id=43bb1cf4-6f15-3a7a-8434-89263332c414,name=od4,properties={},legacy=false] (/[::1]:45978): You are not white-listed on this server!
+[28Nov2024 04:06:20.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@eaccd97[id=43bb1cf4-6f15-3a7a-8434-89263332c414,name=od4,properties={},legacy=false] (/[::1]:45978) lost connection: You are not white-listed on this server!
+[28Nov2024 04:06:20.697] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 04:06:30.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@19d68d70[id=43bb1cf4-6f15-3a7a-8434-89263332c414,name=od4,properties={},legacy=false] (/[::1]:41346): You are not white-listed on this server!
+[28Nov2024 04:06:30.308] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19d68d70[id=43bb1cf4-6f15-3a7a-8434-89263332c414,name=od4,properties={},legacy=false] (/[::1]:41346) lost connection: You are not white-listed on this server!
+[28Nov2024 04:06:30.358] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 04:06:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> RIAAAN
+[28Nov2024 04:06:44.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> oi
+[28Nov2024 04:06:45.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> ERICK NAO CONSEGUE ENTRAT
+[28Nov2024 04:06:55.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> desculpa ta em capslock
+[28Nov2024 04:06:59.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> oque aparece pra le?
+[28Nov2024 04:07:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> mandou no gp
+[28Nov2024 04:07:19.543] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@60f84690[id=43bb1cf4-6f15-3a7a-8434-89263332c414,name=od4,properties={},legacy=false] (/[::1]:47484): You are not white-listed on this server!
+[28Nov2024 04:07:19.544] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60f84690[id=43bb1cf4-6f15-3a7a-8434-89263332c414,name=od4,properties={},legacy=false] (/[::1]:47484) lost connection: You are not white-listed on this server!
+[28Nov2024 04:07:19.593] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 04:07:35.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rianofc: Whitelist is now turned off]
+[28Nov2024 04:07:49.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: od4[/[::1]:33218] logged in with entity id 15973 at (63.5, 66.0, -92.5)
+[28Nov2024 04:07:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 joined the game
+[28Nov2024 04:07:50.065] [Server thread/INFO] [Jade/]: Syncing config to od4 (43bb1cf4-6f15-3a7a-8434-89263332c414)
+[28Nov2024 04:07:51.136] [Server thread/INFO] [ping-wheel/]: Channel update: od4 -> default
+[28Nov2024 04:08:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Alex's Mobs]
+[28Nov2024 04:08:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rianofc: Added od4 to the whitelist]
+[28Nov2024 04:08:52.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> [x:1156, y:81, z:-31, dim:minecraft:overworld]
+[28Nov2024 04:10:37.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> cade tu mlk
+[28Nov2024 04:11:41.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> aqui vai ser o centro ?
+[28Nov2024 04:11:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> ou a sua casa?
+[28Nov2024 04:11:54.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> eu achei aqui bom
+[28Nov2024 04:11:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> mas é com vcs
+[28Nov2024 04:12:19.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> pa mim tbm
+[28Nov2024 04:12:32.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> vou pro canto que vai ser minha casa
+[28Nov2024 04:12:55.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> vou morar do outro lado do rio
+[28Nov2024 04:14:27.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Timed out
+[28Nov2024 04:14:27.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
+[28Nov2024 04:14:27.543] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

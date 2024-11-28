@@ -524,7 +524,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-11-28 03:21:21 +0000",
-      "minecraft:forest": "2024-11-28 03:20:19 +0000"
+      "minecraft:river": "2024-11-28 03:44:55 +0000",
+      "minecraft:forest": "2024-11-28 03:20:19 +0000",
+      "minecraft:plains": "2024-11-28 04:00:58 +0000"
     },
     "done": false
   },
@@ -588,9 +590,25 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-11-28 03:52:11 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-11-28 03:52:11 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_forest": {
     "criteria": {
-      "elderberry_seed": "2024-11-28 03:38:23 +0000"
+      "tomatillo_seed": "2024-11-28 03:59:47 +0000",
+      "elderberry_seed": "2024-11-28 03:38:23 +0000",
+      "blueberry_seed": "2024-11-28 03:54:06 +0000",
+      "tomato_seed": "2024-11-28 03:53:12 +0000",
+      "grape_seed": "2024-11-28 03:50:19 +0000"
     },
     "done": false
   },
@@ -600,9 +618,25 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-11-28 03:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-28 03:46:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_all": {
     "criteria": {
-      "elderberry_seed": "2024-11-28 03:38:23 +0000"
+      "elderberry_seed": "2024-11-28 03:38:23 +0000",
+      "tomato_seed": "2024-11-28 03:53:12 +0000",
+      "tomatillo_seed": "2024-11-28 03:59:47 +0000",
+      "blueberry_seed": "2024-11-28 03:54:06 +0000",
+      "grape_seed": "2024-11-28 03:50:19 +0000"
     },
     "done": false
   },
@@ -618,8 +652,16 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-11-28 03:55:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-11-28 04:09:12 +0000",
+      "porkchop": "2024-11-28 03:54:15 +0000",
       "apple": "2024-11-28 03:40:46 +0000"
     },
     "done": false
@@ -627,6 +669,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-28 03:40:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-11-28 03:52:11 +0000"
     },
     "done": true
   },
