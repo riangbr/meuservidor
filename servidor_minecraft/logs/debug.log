@@ -19622,3 +19622,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 16:14:11.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_giant_cross_1
 [28Nov2024 16:14:11.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_outdoor_shack_1
 [28Nov2024 16:14:11.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_main_house_1
+[28Nov2024 16:16:22.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 16:16:22.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 16:16:22.831] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[28Nov2024 16:20:18.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/148, l='ServerLevel[world]', x=1003.73, y=26.00, z=480.73]
+[28Nov2024 16:20:56.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19576, l='ServerLevel[world]', x=1002.39, y=26.52, z=480.46], dimensionLocationPath overworld
+[28Nov2024 16:20:56.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19576, l='ServerLevel[world]', x=1002.39, y=26.52, z=480.46] in list []
+[28Nov2024 16:20:56.771] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/19576, l='ServerLevel[world]', x=1002.96, y=26.00, z=481.58, removed=DISCARDED]
+[28Nov2024 16:20:59.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/148, l='ServerLevel[world]', x=1002.29, y=26.00, z=481.00], dimensionLocationPath overworld
+[28Nov2024 16:20:59.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/148, l='ServerLevel[world]', x=1002.29, y=26.00, z=481.00] in list []
+[28Nov2024 16:21:22.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 16:21:22.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 16:23:08.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/148, l='ServerLevel[world]', x=982.40, y=23.00, z=470.06]
+[28Nov2024 16:23:08.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19859, l='ServerLevel[world]', x=982.74, y=25.57, z=466.67], dimensionLocationPath overworld
+[28Nov2024 16:23:08.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19859, l='ServerLevel[world]', x=982.74, y=25.57, z=466.67] in list []
+[28Nov2024 16:23:10.371] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/19859, l='ServerLevel[world]', x=983.10, y=23.00, z=466.19, removed=DISCARDED]
+[28Nov2024 16:23:11.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/148, l='ServerLevel[world]', x=983.67, y=22.00, z=466.18], dimensionLocationPath overworld
+[28Nov2024 16:23:11.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/148, l='ServerLevel[world]', x=983.67, y=22.00, z=466.18] in list []
