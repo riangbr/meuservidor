@@ -785,6 +785,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "calamari": "2024-11-28 22:00:12 +0000",
       "glowing_calamari": "2024-11-28 04:41:38 +0000"
     },
     "done": false
