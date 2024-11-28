@@ -602,6 +602,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2024-11-28 21:45:51 +0000",
       "elderberry_seed": "2024-11-28 03:38:23 +0000",
       "tomato_seed": "2024-11-28 03:53:12 +0000",
       "greenbean_seed": "2024-11-28 20:22:00 +0000",
@@ -634,6 +635,7 @@
     "criteria": {
       "cooked_porkchop": "2024-11-28 04:09:12 +0000",
       "cooked_mutton": "2024-11-28 17:39:28 +0000",
+      "cooked_beef": "2024-11-28 21:46:38 +0000",
       "porkchop": "2024-11-28 03:54:15 +0000",
       "apple": "2024-11-28 03:40:46 +0000"
     },
@@ -684,6 +686,7 @@
   "croptopia:gather_plains": {
     "criteria": {
       "greenbean_seed": "2024-11-28 20:22:00 +0000",
+      "sweetpotato_seed": "2024-11-28 21:45:51 +0000",
       "chile_pepper_seed": "2024-11-28 17:38:53 +0000"
     },
     "done": false

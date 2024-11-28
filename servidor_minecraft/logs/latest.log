@@ -2463,3 +2463,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 21:11:06.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
 [28Nov2024 21:39:46.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz was slain by Zombie
 [28Nov2024 21:39:48.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Nov2024 21:40:44.220] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[28Nov2024 21:40:44.718] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[28Nov2024 21:41:16.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz was shot by Skeleton
+[28Nov2024 21:41:51.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rianofc[/100.107.25.55:49947] logged in with entity id 25003 at (1089.5416975073226, 65.0, -19.204518784015065)
+[28Nov2024 21:41:51.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc joined the game
+[28Nov2024 21:41:51.476] [Server thread/INFO] [Jade/]: Syncing config to rianofc (115e9bfb-b119-3cab-9841-4e4f8389ec0a)
+[28Nov2024 21:41:52.298] [Server thread/INFO] [ping-wheel/]: Channel update: rianofc -> default
+[28Nov2024 21:44:43.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Nov2024 21:44:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> ce ta fazendo sua base?
+[28Nov2024 21:44:57.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> sim
+[28Nov2024 21:45:06.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> mas to coletando recursos ainda
+[28Nov2024 21:50:45.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rianofc> saquei
+[28Nov2024 21:54:17.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Disconnected
+[28Nov2024 21:54:17.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
+[28Nov2024 21:54:55.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.28307098558286725
+[28Nov2024 21:55:07.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.31447941995222095
+[28Nov2024 21:55:07.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.8256928719320911
+[28Nov2024 21:55:07.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.3581290145995268
+[28Nov2024 21:55:07.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.9019209959190704
+[28Nov2024 21:55:16.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49ac944d[id=<null>,name=rianofc,properties={},legacy=false] (/100.107.25.55:50993) lost connection: Disconnected
+[28Nov2024 21:55:22.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rianofc[/100.107.25.55:51022] logged in with entity id 28508 at (1147.751202729432, 80.0, -35.4844680848124)
+[28Nov2024 21:55:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc joined the game
+[28Nov2024 21:55:22.064] [Server thread/INFO] [Jade/]: Syncing config to rianofc (115e9bfb-b119-3cab-9841-4e4f8389ec0a)
+[28Nov2024 21:55:22.601] [Server thread/INFO] [ping-wheel/]: Channel update: rianofc -> default
+[28Nov2024 21:55:48.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Hot Stuff]
+[28Nov2024 21:56:08.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.2782524483160529
+[28Nov2024 21:56:08.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.742709262859492
+[28Nov2024 21:56:09.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.27049242639816384
+[28Nov2024 21:56:09.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.6859189587395349
+[28Nov2024 21:56:12.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[28Nov2024 21:56:12.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.4552774856535251
+[28Nov2024 21:56:21.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Disconnected
+[28Nov2024 21:56:21.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
+[28Nov2024 21:58:41.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
