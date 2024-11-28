@@ -2441,3 +2441,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 16:11:45.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Isn't It Iron Pick]
 [28Nov2024 16:13:48.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: od4 lost connection: Timed out
 [28Nov2024 16:13:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 left the game
+[28Nov2024 16:28:48.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Diamonds!]
+[28Nov2024 16:29:21.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: od4[/[::1]:41034] logged in with entity id 21102 at (1197.6130779243379, 36.0, -241.30000001192093)
+[28Nov2024 16:29:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 joined the game
+[28Nov2024 16:29:21.460] [Server thread/INFO] [Jade/]: Syncing config to od4 (43bb1cf4-6f15-3a7a-8434-89263332c414)
+[28Nov2024 16:29:22.157] [Server thread/INFO] [ping-wheel/]: Channel update: od4 -> default
+[28Nov2024 16:43:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Sweet Dreams]
+[28Nov2024 16:46:12.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
