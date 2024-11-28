@@ -2616,3 +2616,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 22:33:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spark [<args>]
 [28Nov2024 22:33:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ae2 (reloadconfig|chunklogger|spatial|channelmode|tickmonitor)
 [28Nov2024 22:33:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
+[28Nov2024 22:49:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Suit Up]
