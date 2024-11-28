@@ -125,12 +125,6 @@
     },
     "done": true
   },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "tomato_seed": "2024-11-28 04:18:53 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
@@ -167,12 +161,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-11-28 04:17:01 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2024-11-28 04:07:50 +0000"
@@ -206,18 +194,6 @@
   "beachparty:hammock": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-11-28 04:17:48 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2024-11-28 04:08:14 +0000"
     },
     "done": true
   },
@@ -311,12 +287,6 @@
     },
     "done": true
   },
-  "croptopia:gather_all": {
-    "criteria": {
-      "tomato_seed": "2024-11-28 04:18:53 +0000"
-    },
-    "done": false
-  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-11-28 04:07:50 +0000"
@@ -365,21 +335,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-11-28 04:24:58 +0000"
-    },
-    "done": true
-  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-11-28 04:07:50 +0000"
-    },
-    "done": true
-  },
-  "croptopia:getseeds": {
-    "criteria": {
-      "has_seeds": "2024-11-28 04:18:53 +0000"
     },
     "done": true
   },
@@ -443,26 +401,11 @@
     },
     "done": true
   },
-  "beautify:blinds": {
-    "criteria": {
-      "requirement": "2024-11-28 04:10:28 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2024-11-28 04:07:50 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2024-11-28 04:08:13 +0000",
-      "minecraft:river": "2024-11-28 04:19:04 +0000",
-      "minecraft:forest": "2024-11-28 04:07:51 +0000",
-      "minecraft:plains": "2024-11-28 04:23:06 +0000"
-    },
-    "done": false
   },
   "beachparty:palm_slab": {
     "criteria": {
@@ -485,12 +428,6 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
-    },
-    "done": true
-  },
-  "exlinefurniture:recipes/misc/stone": {
-    "criteria": {
-      "has_ingredient": "2024-11-28 04:17:01 +0000"
     },
     "done": true
   },
@@ -524,18 +461,6 @@
     },
     "done": true
   },
-  "beautify:trellis": {
-    "criteria": {
-      "requirement": "2024-11-28 04:10:28 +0000"
-    },
-    "done": true
-  },
-  "exlinefurniture:recipes/misc/oak": {
-    "criteria": {
-      "has_ingredient": "2024-11-28 04:10:21 +0000"
-    },
-    "done": true
-  },
   "beachparty:palm_button": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
@@ -551,12 +476,6 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-11-28 04:08:14 +0000"
     },
     "done": true
   },
@@ -599,6 +518,152 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2024-11-28 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-11-28 04:08:13 +0000",
+      "minecraft:river": "2024-11-28 04:19:04 +0000",
+      "minecraft:forest": "2024-11-28 04:07:51 +0000",
+      "minecraft:plains": "2024-11-28 04:23:06 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-28 04:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 04:08:14 +0000"
+    },
+    "done": true
+  },
+  "exlinefurniture:recipes/misc/oak": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2024-11-28 04:10:28 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2024-11-28 04:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-28 04:17:01 +0000"
+    },
+    "done": true
+  },
+  "exlinefurniture:recipes/misc/stone": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 04:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-28 04:17:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomato_seed": "2024-11-28 04:18:53 +0000",
+      "grape_seed": "2024-11-28 16:04:23 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2024-11-28 16:02:16 +0000",
+      "tomato_seed": "2024-11-28 04:18:53 +0000",
+      "chile_pepper_seed": "2024-11-28 16:04:09 +0000",
+      "cucumber_seed": "2024-11-28 15:54:52 +0000",
+      "grape_seed": "2024-11-28 16:04:23 +0000",
+      "broccoli_seed": "2024-11-28 15:54:40 +0000",
+      "corn_seed": "2024-11-28 15:55:52 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-11-28 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-28 04:24:58 +0000"
+    },
+    "done": true
+  },
+  "exlinefurniture:recipes/misc/iron": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 16:11:35 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-11-28 15:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-28 16:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-28 16:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-28 15:58:30 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "chile_pepper_seed": "2024-11-28 16:04:09 +0000",
+      "cucumber_seed": "2024-11-28 15:54:52 +0000",
+      "bellpepper_seed": "2024-11-28 16:02:16 +0000",
+      "corn_seed": "2024-11-28 15:55:52 +0000",
+      "broccoli_seed": "2024-11-28 15:54:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-28 15:58:30 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2024-11-28 16:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-28 15:55:08 +0000"
     },
     "done": true
   },
