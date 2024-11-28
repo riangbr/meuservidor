@@ -2459,3 +2459,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 20:40:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has reached the goal [Flowers of the Savanna]
 [28Nov2024 20:55:14.618] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [28Nov2024 20:55:14.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[28Nov2024 21:08:51.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[28Nov2024 21:11:06.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
