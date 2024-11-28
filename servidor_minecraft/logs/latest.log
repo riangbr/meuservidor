@@ -2456,3 +2456,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 20:35:56.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.6086784605467983
 [28Nov2024 20:35:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.9623715547487279
 [28Nov2024 20:35:56.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.2908028332180095
+[28Nov2024 20:40:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has reached the goal [Flowers of the Savanna]
