@@ -828,5 +828,23 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2024-11-29 17:29:08 +0000"
+    },
+    "done": false
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-11-29 17:30:56 +0000"
+    },
+    "done": true
+  },
+  "exlinefurniture:recipes/misc/rotten_flesh": {
+    "criteria": {
+      "has_ingredient": "2024-11-29 17:27:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

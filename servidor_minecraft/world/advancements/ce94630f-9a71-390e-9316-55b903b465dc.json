@@ -946,5 +946,11 @@
     },
     "done": true
   },
+  "exlinefurniture:recipes/misc/jungle": {
+    "criteria": {
+      "has_ingredient": "2024-11-29 17:29:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
