@@ -20561,3 +20561,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 22:50:37.929] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/17498, l='ServerLevel[world]', x=724.84, y=-42.00, z=494.17, removed=UNLOADED_TO_CHUNK]
 [29Nov2024 22:51:36.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Nov2024 22:51:36.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 22:56:36.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 22:56:36.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 22:58:32.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Nov2024 23:01:36.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:01:36.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:01:36.631] [Server thread/DEBUG] [pneumaticcraft/]: 32 active Amadron offers to sync to clients
+[29Nov2024 23:06:36.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:06:36.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:09:35.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[29Nov2024 23:09:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> [x:1910, y:21, z:1908, dim:minecraft:overworld]
+[29Nov2024 23:11:36.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:11:36.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

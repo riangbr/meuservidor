@@ -2464,3 +2464,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 22:49:34.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.6762930690088069
 [29Nov2024 22:49:34.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.3775169557538902
 [29Nov2024 22:49:34.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.7791039607222956
+[29Nov2024 23:09:35.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[29Nov2024 23:09:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> [x:1910, y:21, z:1908, dim:minecraft:overworld]
