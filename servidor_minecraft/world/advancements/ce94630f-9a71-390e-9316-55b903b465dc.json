@@ -640,6 +640,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-28 16:05:40 +0000",
       "minecraft:spider": "2024-11-28 04:19:37 +0000",
+      "minecraft:creeper": "2024-11-29 18:01:25 +0000",
       "minecraft:cave_spider": "2024-11-28 21:39:27 +0000",
       "minecraft:zombie": "2024-11-28 03:46:58 +0000"
     },
