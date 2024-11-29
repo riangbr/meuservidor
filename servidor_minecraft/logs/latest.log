@@ -2466,3 +2466,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 22:49:34.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.7791039607222956
 [29Nov2024 23:09:35.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [29Nov2024 23:09:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatatinhaFeliz> [x:1910, y:21, z:1908, dim:minecraft:overworld]
+[29Nov2024 23:14:06.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[29Nov2024 23:14:40.177] [Worker-Main-28/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[29Nov2024 23:16:59.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[29Nov2024 23:18:28.942] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[29Nov2024 23:26:53.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Mine? Mine? Mine?]

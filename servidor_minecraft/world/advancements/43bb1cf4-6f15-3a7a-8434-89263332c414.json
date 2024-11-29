@@ -531,6 +531,7 @@
       "minecraft:river": "2024-11-28 04:19:04 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 17:34:09 +0000",
       "minecraft:stony_shore": "2024-11-28 17:33:10 +0000",
+      "minecraft:dripstone_caves": "2024-11-29 23:19:28 +0000",
       "minecraft:grove": "2024-11-28 17:30:50 +0000",
       "minecraft:forest": "2024-11-28 04:07:51 +0000",
       "minecraft:jungle": "2024-11-28 17:33:03 +0000",
@@ -892,6 +893,12 @@
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2024-11-29 22:35:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-11-29 23:26:53 +0000"
     },
     "done": true
   },
