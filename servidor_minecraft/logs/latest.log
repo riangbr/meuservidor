@@ -45,3 +45,27 @@
 [29Nov2024 00:59:40.604] [Server thread/INFO] [ping-wheel/]: Channel update: rianofc -> default
 [29Nov2024 01:00:44.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz lost connection: Disconnected
 [29Nov2024 01:00:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz left the game
+[29Nov2024 01:05:04.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc has made the advancement [Acquire Hardware]
+[29Nov2024 01:05:29.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Disconnected
+[29Nov2024 01:05:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
+[29Nov2024 01:06:45.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatatinhaFeliz[/100.110.230.85:53066] logged in with entity id 64642 at (1023.6470953339589, 52.0, -65.499005268129)
+[29Nov2024 01:06:45.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz joined the game
+[29Nov2024 01:06:45.620] [Server thread/INFO] [Jade/]: Syncing config to BatatinhaFeliz (ce94630f-9a71-390e-9316-55b903b465dc)
+[29Nov2024 01:06:46.058] [Server thread/INFO] [ping-wheel/]: Channel update: BatatinhaFeliz -> default
+[29Nov2024 01:07:51.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rianofc[/100.107.25.55:52133] logged in with entity id 64911 at (1156.9471971052126, 81.0, -34.09767068580522)
+[29Nov2024 01:07:51.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc joined the game
+[29Nov2024 01:07:51.482] [Server thread/INFO] [Jade/]: Syncing config to rianofc (115e9bfb-b119-3cab-9841-4e4f8389ec0a)
+[29Nov2024 01:07:51.878] [Server thread/INFO] [ping-wheel/]: Channel update: rianofc -> default
+[29Nov2024 01:08:22.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz lost connection: Disconnected
+[29Nov2024 01:08:22.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz left the game
+[29Nov2024 01:08:26.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc has made the advancement [Isn't It Iron Pick]
+[29Nov2024 01:11:40.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc was doomed to fall by Bison
+[29Nov2024 01:11:53.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [We Need to Go Deeper]
+[29Nov2024 01:11:58.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! -5.153701177316407,1.0013359791121417,-8.689965462166242
+[29Nov2024 01:11:58.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6818ms or 136 ticks behind
+[29Nov2024 01:11:59.315] [Worker-Main-136/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[29Nov2024 01:11:59.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [A Terrible Fortress]
+[29Nov2024 01:12:01.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/ai/FindPlaceToSleepGoal$Target
+[29Nov2024 01:17:42.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc has reached the goal [Half a flight]
+[29Nov2024 01:19:11.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! 0.17196695715870192,-11.423845585436226,-2.3312583670644784
+[29Nov2024 01:22:10.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! -6.969763364418668,-2.905402495000473,7.2431684512537995
