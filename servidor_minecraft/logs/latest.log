@@ -7,3 +7,41 @@
 [29Nov2024 00:24:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Ice Bucket Challenge]
 [29Nov2024 00:40:26.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: od4 lost connection: Disconnected
 [29Nov2024 00:40:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 left the game
+[29Nov2024 00:49:54.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.3795034165796096
+[29Nov2024 00:49:54.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.8140490275172851
+[29Nov2024 00:49:54.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 00:49:54.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 00:49:54.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 00:49:54.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.2521578892266234
+[29Nov2024 00:49:54.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.664912164198654
+[29Nov2024 00:50:19.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.6060950216768788
+[29Nov2024 00:50:19.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.9548342970140311
+[29Nov2024 00:50:19.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.5056945977580654
+[29Nov2024 00:50:23.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.27855975118495735
+[29Nov2024 00:50:23.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.7069515917959279
+[29Nov2024 00:50:23.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 00:50:23.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 00:50:23.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 00:50:28.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.27809977316688617
+[29Nov2024 00:50:28.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.701539535316698
+[29Nov2024 00:50:28.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.2027478278045152
+[29Nov2024 00:51:16.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rianofc[/100.107.25.55:50475] logged in with entity id 55987 at (1140.069101089851, 80.0, -33.35508387407013)
+[29Nov2024 00:51:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc joined the game
+[29Nov2024 00:51:16.512] [Server thread/INFO] [Jade/]: Syncing config to rianofc (115e9bfb-b119-3cab-9841-4e4f8389ec0a)
+[29Nov2024 00:51:17.577] [Server thread/INFO] [ping-wheel/]: Channel update: rianofc -> default
+[29Nov2024 00:53:43.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! 7.114035352719156,-1.1661092609382138,7.340105408640852
+[29Nov2024 00:55:03.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[29Nov2024 00:59:09.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Disconnected
+[29Nov2024 00:59:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
+[29Nov2024 00:59:09.751] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 00:59:23.219] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@448ed86b[id=<null>,name=od4,properties={},legacy=false] (/100.123.44.54:64607) lost connection: Disconnected
+[29Nov2024 00:59:29.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: od4[/100.123.44.54:64609] logged in with entity id 62766 at (1066.291973305387, 62.9375, 22.313702548597277)
+[29Nov2024 00:59:29.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 joined the game
+[29Nov2024 00:59:29.722] [Server thread/INFO] [Jade/]: Syncing config to od4 (43bb1cf4-6f15-3a7a-8434-89263332c414)
+[29Nov2024 00:59:31.889] [Server thread/INFO] [ping-wheel/]: Channel update: od4 -> default
+[29Nov2024 00:59:40.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rianofc[/100.107.25.55:51229] logged in with entity id 62855 at (1215.699999988079, 42.0, -13.300000011920929)
+[29Nov2024 00:59:40.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc joined the game
+[29Nov2024 00:59:40.148] [Server thread/INFO] [Jade/]: Syncing config to rianofc (115e9bfb-b119-3cab-9841-4e4f8389ec0a)
+[29Nov2024 00:59:40.604] [Server thread/INFO] [ping-wheel/]: Channel update: rianofc -> default
+[29Nov2024 01:00:44.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz lost connection: Disconnected
+[29Nov2024 01:00:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz left the game

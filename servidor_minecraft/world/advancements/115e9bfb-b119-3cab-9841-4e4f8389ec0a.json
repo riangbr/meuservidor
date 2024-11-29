@@ -568,6 +568,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-11-29 00:56:07 +0000",
+      "minecraft:cave_spider": "2024-11-29 00:58:06 +0000",
       "minecraft:zombie": "2024-11-28 03:29:52 +0000"
     },
     "done": false
@@ -690,6 +692,36 @@
       "chile_pepper_seed": "2024-11-28 17:38:53 +0000"
     },
     "done": false
+  },
+  "exlinefurniture:recipes/misc/bone": {
+    "criteria": {
+      "has_ingredient": "2024-11-29 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "exlinefurniture:recipes/misc/spidereye": {
+    "criteria": {
+      "has_ingredient": "2024-11-29 00:58:06 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-11-29 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "fusion:sinisite_bow": {
+    "criteria": {
+      "has_item": "2024-11-29 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_bow": {
+    "criteria": {
+      "has_item": "2024-11-29 00:58:07 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
