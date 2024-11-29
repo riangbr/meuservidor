@@ -16194,3 +16194,130 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 16:35:45.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Nov2024 16:40:45.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Nov2024 16:40:45.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 16:45:45.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 16:45:45.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 16:45:45.231] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[29Nov2024 16:47:06.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.29159196807211174
+[29Nov2024 16:47:06.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.6972422216722407
+[29Nov2024 16:47:06.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.1189535375310697
+[29Nov2024 16:48:32.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[29Nov2024 16:49:13.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Nov2024 16:49:20.236] [Worker-Main-49/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Nov2024 16:49:20.239] [Worker-Main-49/DEBUG] [mixin/]: Mixing accessors.WorldGenRegionAccess from mixins.pneumaticcraft.json into net.minecraft.server.level.WorldGenRegion
+[29Nov2024 16:49:21.327] [Worker-Main-47/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[29Nov2024 16:49:46.192] [pool-14-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=1291, y=75, z=443}
+[29Nov2024 16:49:46.198] [pool-14-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[29Nov2024 16:49:46.214] [pool-14-thread-1/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[29Nov2024 16:49:46.354] [pool-14-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[29Nov2024 16:49:46.364] [pool-14-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[29Nov2024 16:49:46.840] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[29Nov2024 16:49:46.864] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[29Nov2024 16:49:46.891] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[29Nov2024 16:49:46.907] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[29Nov2024 16:49:46.919] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[29Nov2024 16:49:46.926] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[29Nov2024 16:49:46.942] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[29Nov2024 16:49:46.955] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[29Nov2024 16:49:46.964] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[29Nov2024 16:49:46.975] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[29Nov2024 16:49:46.986] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[29Nov2024 16:49:47.003] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[29Nov2024 16:49:47.012] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[29Nov2024 16:49:47.020] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[29Nov2024 16:49:47.026] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[29Nov2024 16:49:47.038] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[29Nov2024 16:49:47.058] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[29Nov2024 16:49:47.074] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[29Nov2024 16:49:47.115] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[29Nov2024 16:49:47.154] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[29Nov2024 16:49:47.178] [Worker-Main-49/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[29Nov2024 16:49:47.189] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_02
+[29Nov2024 16:49:47.191] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_1
+[29Nov2024 16:49:47.192] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_2
+[29Nov2024 16:49:47.193] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_3
+[29Nov2024 16:49:47.194] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_4
+[29Nov2024 16:49:47.195] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_large_house_1
+[29Nov2024 16:49:47.197] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_animal_pen_1
+[29Nov2024 16:49:47.198] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_armorer_1
+[29Nov2024 16:49:47.200] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_butcher_1
+[29Nov2024 16:49:47.204] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_cartographer_1
+[29Nov2024 16:49:47.207] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_farm_1
+[29Nov2024 16:49:47.209] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_fisher_1
+[29Nov2024 16:49:47.211] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_fletcher_1
+[29Nov2024 16:49:47.214] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_library_1
+[29Nov2024 16:49:47.216] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_mason_1
+[29Nov2024 16:49:47.217] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_shepherd_1
+[29Nov2024 16:49:47.220] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_leatherworker_1
+[29Nov2024 16:49:47.222] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_temple_1
+[29Nov2024 16:49:47.224] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_toolsmith_1
+[29Nov2024 16:49:47.225] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_weaponsmith_1
+[29Nov2024 16:49:47.226] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_01
+[29Nov2024 16:49:47.226] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_02
+[29Nov2024 16:49:47.226] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_03
+[29Nov2024 16:49:47.227] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_04
+[29Nov2024 16:49:47.232] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/unemployed
+[29Nov2024 16:49:47.232] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_05
+[29Nov2024 16:49:47.237] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_04
+[29Nov2024 16:49:47.243] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[29Nov2024 16:49:47.244] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_02
+[29Nov2024 16:49:47.244] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_decor_1
+[29Nov2024 16:49:47.245] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_1
+[29Nov2024 16:49:47.245] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_2
+[29Nov2024 16:49:47.245] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_3
+[29Nov2024 16:49:47.251] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_02
+[29Nov2024 16:49:47.252] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_01
+[29Nov2024 16:49:47.253] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_01
+[29Nov2024 16:49:47.255] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_06
+[29Nov2024 16:49:47.256] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/turn_01
+[29Nov2024 16:49:47.256] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_03
+[29Nov2024 16:49:47.257] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_04
+[29Nov2024 16:49:47.262] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_01
+[29Nov2024 16:49:47.267] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_06
+[29Nov2024 16:49:47.268] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_05
+[29Nov2024 16:49:47.269] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_03
+[29Nov2024 16:49:47.271] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_03
+[29Nov2024 16:49:47.279] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/nitwit
+[29Nov2024 16:49:47.279] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/baby
+[29Nov2024 16:49:48.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 9.215658136949287,0.0,4.227454887106319
+[29Nov2024 16:49:48.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 9.637416648475892,0.0,4.656228547479543
+[29Nov2024 16:49:48.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 10.04990547318448,0.0,5.09496091330675
+[29Nov2024 16:49:48.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 10.457434273294211,0.0,5.539021983867258
+[29Nov2024 16:49:48.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 10.862309063133353,0.0,5.985934338087645
+[29Nov2024 16:49:48.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 11.265763744992,1.0,6.434372357345978
+[29Nov2024 16:49:48.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 11.668458555384177,1.0,6.883626729547643
+[29Nov2024 16:49:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 6.913287213448484,1.0,7.565211854088261
+[29Nov2024 16:49:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 7.340094128811643,2.0,7.9903646645458934
+[29Nov2024 16:49:48.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 7.801074491859708,2.0,8.374710285406707
+[29Nov2024 16:49:48.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! 8.302937353226753,2.0,8.696906920191054
+[29Nov2024 16:49:48.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 16:49:48.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 16:49:48.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 16:49:48.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 16:49:48.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 16:49:48.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 16:49:48.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 16:50:45.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 16:50:45.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 16:52:01.443] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1024.17, y=52.00, z=-65.85], dimensionLocationPath overworld
+[29Nov2024 16:52:05.491] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1020.88, y=52.00, z=-62.49]
+[29Nov2024 16:52:13.988] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/8247, l='ServerLevel[world]', x=1023.27, y=53.16, z=-60.60], dimensionLocationPath overworld
+[29Nov2024 16:52:13.988] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/8247, l='ServerLevel[world]', x=1023.27, y=53.16, z=-60.60] in list []
+[29Nov2024 16:52:16.886] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/8247, l='ServerLevel[world]', x=1023.90, y=52.00, z=-60.14, removed=DISCARDED]
+[29Nov2024 16:52:18.890] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77], dimensionLocationPath overworld
+[29Nov2024 16:52:18.890] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77] in list []
+[29Nov2024 16:52:20.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77]
+[29Nov2024 16:52:20.590] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77], dimensionLocationPath overworld
+[29Nov2024 16:52:20.590] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77] in list []
+[29Nov2024 16:52:21.993] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77]
+[29Nov2024 16:52:22.441] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77], dimensionLocationPath overworld
+[29Nov2024 16:52:22.441] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77] in list []
+[29Nov2024 16:52:22.490] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.81, y=52.00, z=-60.77]
+[29Nov2024 16:52:42.790] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1021.74, y=52.00, z=-60.76], dimensionLocationPath overworld
+[29Nov2024 16:52:42.791] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1021.74, y=52.00, z=-60.76] in list []
+[29Nov2024 16:52:44.041] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1021.74, y=52.00, z=-60.76]
+[29Nov2024 16:53:18.191] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1015.30, y=52.00, z=-61.35], dimensionLocationPath overworld
+[29Nov2024 16:53:18.192] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1015.30, y=52.00, z=-61.35] in list []
+[29Nov2024 16:53:21.340] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1016.70, y=52.00, z=-57.77]
+[29Nov2024 16:53:21.740] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1016.70, y=52.00, z=-57.77], dimensionLocationPath overworld
+[29Nov2024 16:53:21.740] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1016.70, y=52.00, z=-57.77] in list []
+[29Nov2024 16:53:21.941] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1016.70, y=52.00, z=-57.77]
