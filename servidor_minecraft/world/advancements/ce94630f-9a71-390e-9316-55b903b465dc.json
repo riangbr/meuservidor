@@ -428,10 +428,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "quark:glimmering_weald": "2024-11-28 21:38:06 +0000",
+      "minecraft:bamboo_jungle": "2024-11-29 18:19:05 +0000",
       "minecraft:beach": "2024-11-28 03:41:30 +0000",
       "minecraft:sparse_jungle": "2024-11-28 04:00:06 +0000",
       "minecraft:river": "2024-11-28 03:44:20 +0000",
       "minecraft:forest": "2024-11-28 03:40:12 +0000",
+      "minecraft:jungle": "2024-11-29 18:11:47 +0000",
       "minecraft:savanna": "2024-11-28 04:18:20 +0000",
       "minecraft:plains": "2024-11-28 03:57:34 +0000"
     },
@@ -947,9 +949,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-29 18:11:58 +0000"
+    },
+    "done": true
+  },
   "exlinefurniture:recipes/misc/jungle": {
     "criteria": {
       "has_ingredient": "2024-11-29 17:29:31 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-11-29 18:12:31 +0000"
     },
     "done": true
   },

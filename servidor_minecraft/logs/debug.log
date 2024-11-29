@@ -17308,3 +17308,274 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 18:06:38.696] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1026.26, y=52.00, z=-55.76], dimensionLocationPath overworld
 [29Nov2024 18:06:38.697] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1026.26, y=52.00, z=-55.76] in list []
 [29Nov2024 18:06:38.794] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1026.26, y=52.00, z=-55.76]
+[29Nov2024 18:07:08.642] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1020.60, y=52.00, z=-62.44], dimensionLocationPath overworld
+[29Nov2024 18:07:08.642] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1020.60, y=52.00, z=-62.44] in list []
+[29Nov2024 18:07:08.697] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1020.60, y=52.00, z=-62.44]
+[29Nov2024 18:07:39.446] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1077.37, y=63.80, z=21.98], dimensionLocationPath overworld
+[29Nov2024 18:07:39.446] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1077.37, y=63.80, z=21.98] in list []
+[29Nov2024 18:07:39.745] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1075.82, y=63.00, z=21.28]
+[29Nov2024 18:08:23.291] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1033.08, y=60.50, z=-68.96], dimensionLocationPath overworld
+[29Nov2024 18:08:23.291] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1033.08, y=60.50, z=-68.96] in list []
+[29Nov2024 18:08:24.541] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1037.48, y=63.00, z=-69.62]
+[29Nov2024 18:08:27.048] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1038.83, y=63.00, z=-69.83], dimensionLocationPath overworld
+[29Nov2024 18:08:27.048] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1038.83, y=63.00, z=-69.83] in list []
+[29Nov2024 18:08:27.194] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1038.83, y=63.00, z=-69.83]
+[29Nov2024 18:08:39.295] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1043.37, y=63.00, z=-81.22], dimensionLocationPath overworld
+[29Nov2024 18:08:39.295] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1043.37, y=63.00, z=-81.22] in list []
+[29Nov2024 18:08:39.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1043.94, y=63.00, z=-81.03]
+[29Nov2024 18:08:51.494] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[29Nov2024 18:09:06.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1054.32, y=62.07, z=-3.05], dimensionLocationPath overworld
+[29Nov2024 18:09:06.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1054.32, y=62.07, z=-3.05] in list []
+[29Nov2024 18:09:06.342] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1054.51, y=62.07, z=-2.70]
+[29Nov2024 18:09:45.195] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1199.04, y=62.07, z=124.66], dimensionLocationPath overworld
+[29Nov2024 18:09:45.195] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1199.04, y=62.07, z=124.66] in list []
+[29Nov2024 18:09:45.594] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1199.30, y=62.07, z=124.60]
+[29Nov2024 18:10:45.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 18:10:45.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 18:10:59.944] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1201.95, y=63.00, z=123.88], dimensionLocationPath overworld
+[29Nov2024 18:10:59.945] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1201.95, y=63.00, z=123.88] in list []
+[29Nov2024 18:10:59.994] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BatatinhaFeliz'/9511, l='ServerLevel[world]', x=1201.95, y=63.00, z=123.88]
+[29Nov2024 18:11:45.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1082.97, y=63.00, z=24.94], dimensionLocationPath overworld
+[29Nov2024 18:11:45.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1082.97, y=63.00, z=24.94] in list []
+[29Nov2024 18:11:45.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1082.76, y=63.00, z=24.94]
+[29Nov2024 18:11:46.443] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.AnimalMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.AnimalMakeLove
+[29Nov2024 18:11:46.444] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.AnimalMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29Nov2024 18:11:50.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1413, y=63, z=148} BlockPos{x=1413, y=62, z=148}
+[29Nov2024 18:11:50.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1413, y=63, z=148} BlockPos{x=1413, y=62, z=148}
+[29Nov2024 18:11:55.944] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1082.92, y=63.00, z=25.71], dimensionLocationPath overworld
+[29Nov2024 18:11:55.944] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1082.92, y=63.00, z=25.71] in list []
+[29Nov2024 18:11:55.994] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1082.94, y=63.00, z=25.65]
+[29Nov2024 18:11:58.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Not Today, Thank You]
+[29Nov2024 18:12:42.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[29Nov2024 18:12:42.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_01
+[29Nov2024 18:12:42.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/unemployed
+[29Nov2024 18:12:42.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_05
+[29Nov2024 18:12:42.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_02
+[29Nov2024 18:12:42.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_05
+[29Nov2024 18:12:42.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/nitwit
+[29Nov2024 18:12:42.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[29Nov2024 18:12:42.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_06
+[29Nov2024 18:12:42.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_03
+[29Nov2024 18:12:42.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_06
+[29Nov2024 18:12:42.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_3
+[29Nov2024 18:12:42.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_01
+[29Nov2024 18:12:42.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_cartographer_1
+[29Nov2024 18:12:42.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_02
+[29Nov2024 18:12:42.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_03
+[29Nov2024 18:12:42.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_04
+[29Nov2024 18:12:42.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_fletcher_1
+[29Nov2024 18:12:42.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_3
+[29Nov2024 18:12:42.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/turn_01
+[29Nov2024 18:12:42.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_01
+[29Nov2024 18:12:42.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_02
+[29Nov2024 18:12:42.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_2
+[29Nov2024 18:12:42.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_butcher_1
+[29Nov2024 18:12:42.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_4
+[29Nov2024 18:12:42.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_armorer_1
+[29Nov2024 18:12:42.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_1
+[29Nov2024 18:12:42.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_1
+[29Nov2024 18:12:42.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_04
+[29Nov2024 18:12:42.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_decor_1
+[29Nov2024 18:12:42.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/baby
+[29Nov2024 18:12:42.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_temple_1
+[29Nov2024 18:12:42.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_01
+[29Nov2024 18:12:42.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_03
+[29Nov2024 18:12:42.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_04
+[29Nov2024 18:12:54.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1448, y=62, z=166} BlockPos{x=1449, y=62, z=166}
+[29Nov2024 18:13:47.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1085.04, y=63.00, z=21.23], dimensionLocationPath overworld
+[29Nov2024 18:13:47.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1085.04, y=63.00, z=21.23] in list []
+[29Nov2024 18:13:47.148] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1084.93, y=63.00, z=20.97]
+[29Nov2024 18:13:47.444] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1084.20, y=63.00, z=19.46], dimensionLocationPath overworld
+[29Nov2024 18:13:47.445] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1084.20, y=63.00, z=19.46] in list []
+[29Nov2024 18:13:47.496] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1084.07, y=63.00, z=19.21]
+[29Nov2024 18:14:07.546] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1080.33, y=64.18, z=22.78], dimensionLocationPath overworld
+[29Nov2024 18:14:07.546] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1080.33, y=64.18, z=22.78] in list []
+[29Nov2024 18:14:08.094] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1076.95, y=64.80, z=21.62]
+[29Nov2024 18:15:14.849] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1068.80, y=62.94, z=20.09], dimensionLocationPath overworld
+[29Nov2024 18:15:14.849] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1068.80, y=62.94, z=20.09] in list []
+[29Nov2024 18:15:15.449] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1069.02, y=63.00, z=21.99]
+[29Nov2024 18:15:45.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 18:15:45.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 18:16:29.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1066.49, y=62.94, z=21.14], dimensionLocationPath overworld
+[29Nov2024 18:16:29.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1066.49, y=62.94, z=21.14] in list []
+[29Nov2024 18:16:29.847] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['od4'/10166, l='ServerLevel[world]', x=1066.49, y=62.94, z=21.14]
+[29Nov2024 18:16:47.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[29Nov2024 18:16:59.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatatinhaFeliz) moved wrongly! 0.30915281517923177
+[29Nov2024 18:18:45.127] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[29Nov2024 18:18:45.133] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[29Nov2024 18:18:45.137] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/bridge1
+[29Nov2024 18:18:49.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Nov2024 18:18:55.820] [Worker-Main-76/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[29Nov2024 18:19:02.378] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[29Nov2024 18:19:29.287] [Server thread/DEBUG] [mixin/]: Mixing VibrationSystemListenerMixin from botania_xplat.mixins.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[29Nov2024 18:19:29.289] [Server thread/DEBUG] [mixin/]: Mixing VibrationListenerMixin from mixins.deeperdarker.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[29Nov2024 18:19:32.534] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[29Nov2024 18:19:41.417] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[29Nov2024 18:19:44.178] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[29Nov2024 18:19:44.181] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[29Nov2024 18:19:46.845] [Worker-Main-74/DEBUG] [ModernFix/]: Structure structory:entities/vindicator is being run through DFU (hash 5dd6855f36d88b29c351f5e2b8fa10a2f2de7bf2038af87e3447547776df5d69), this will cause launch time delays
+[29Nov2024 18:19:54.337] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[29Nov2024 18:20:07.865] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[29Nov2024 18:20:09.393] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool_small1
+[29Nov2024 18:20:13.129] [Worker-Main-75/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/frog_statue2 is being run through DFU (hash fecac60c658ff25d093bc0bbacf2e73d0dbb39a19b08a798ee241ce44db79e9b), this will cause launch time delays
+[29Nov2024 18:20:22.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[29Nov2024 18:20:22.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_mason_1
+[29Nov2024 18:20:22.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_toolsmith_1
+[29Nov2024 18:20:22.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_leatherworker_1
+[29Nov2024 18:20:22.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_2
+[29Nov2024 18:20:22.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_02
+[29Nov2024 18:20:22.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_weaponsmith_1
+[29Nov2024 18:20:32.421] [Worker-Main-74/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/1/top is being run through DFU (hash dd739bcfe6cf10f1f6926ed2fb63553d0301087f07543cebdcbc05c54069fa86), this will cause launch time delays
+[29Nov2024 18:20:32.518] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/main
+[29Nov2024 18:20:32.533] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[29Nov2024 18:20:32.544] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[29Nov2024 18:20:32.552] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[29Nov2024 18:20:32.562] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[29Nov2024 18:20:45.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 18:20:45.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 18:20:54.923] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_large_house_1
+[29Nov2024 18:20:54.931] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_library_1
+[29Nov2024 18:20:54.937] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_fisher_1
+[29Nov2024 18:20:54.939] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_shepherd_1
+[29Nov2024 18:20:54.942] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_farm_1
+[29Nov2024 18:20:54.944] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_animal_pen_1
+[29Nov2024 18:20:54.955] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_03
+[29Nov2024 18:20:57.136] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[29Nov2024 18:19:08.711] [pool-14-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic]] from pos BlockPos{x=1915, y=105, z=395}
+[29Nov2024 18:22:06.237] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[29Nov2024 18:21:44.131] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[29Nov2024 18:21:06.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz lost connection: Disconnected
+[29Nov2024 18:24:58.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz left the game
+[29Nov2024 18:20:39.817] [pool-14-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=2133, y=72, z=635}
+[29Nov2024 18:21:05.082] [pool-14-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic]] from pos BlockPos{x=1867, y=67, z=677}
+[29Nov2024 18:24:58.715] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[29Nov2024 18:24:59.025] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[29Nov2024 18:24:59.026] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[29Nov2024 18:24:59.026] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[29Nov2024 18:24:59.026] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[29Nov2024 18:24:59.026] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[29Nov2024 18:24:59.026] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[29Nov2024 18:24:59.026] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[29Nov2024 18:24:59.027] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[29Nov2024 18:24:59.028] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[29Nov2024 18:24:59.028] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[29Nov2024 18:24:59.047] [pool-14-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[29Nov2024 18:24:59.063] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[29Nov2024 18:24:59.063] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@ab4aa5e
+[29Nov2024 18:24:59.065] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[29Nov2024 18:24:59.070] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[29Nov2024 18:24:59.077] [pool-14-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[29Nov2024 18:24:59.084] [pool-14-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[29Nov2024 18:24:59.094] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[29Nov2024 18:24:59.111] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[29Nov2024 18:24:59.125] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[29Nov2024 18:24:59.125] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[29Nov2024 18:24:59.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: od4 lost connection: Disconnected
+[29Nov2024 18:24:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 left the game
+[29Nov2024 18:24:59.149] [pool-14-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[29Nov2024 18:24:59.152] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[29Nov2024 18:24:59.253] [pool-14-thread-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[29Nov2024 18:24:59.299] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 18e792cc-7fb9-431a-949c-b42ceb8b4241
+[29Nov2024 18:24:59.356] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6d277b74-79f5-49b9-a606-330291f99cc4
+[29Nov2024 18:24:59.357] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/meuservidor/servidor_minecraft/./crash-reports/crash-2024-11-29_18.24.59-server.txt
+[29Nov2024 18:24:59.485] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 53 messages to dispatch.
+[29Nov2024 18:24:59.582] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 53 messages to dispatch.
+[29Nov2024 18:24:59.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 53 messages to dispatch.
+[29Nov2024 18:25:01.744] [Worker-Main-125/DEBUG] [ModernFix/]: Structure paraglider:rito_village_goddess_statue is being run through DFU (hash 33bf53b8dd30e9b8987fdbb7eb91e9da8d2df7975be4ddfca87cb9830013a94d), this will cause launch time delays
+[29Nov2024 18:25:01.854] [Worker-Main-125/DEBUG] [ModernFix/]: Structure paraglider:savanna_village_horned_statue is being run through DFU (hash edbbb4a8ed38953f7261e2f8c314e53df7ee11581af8123d1e8c31d31af06a78), this will cause launch time delays
+[29Nov2024 18:25:01.860] [Worker-Main-125/DEBUG] [ModernFix/]: Structure pneumaticcraft:villages/mechanic_house_savanna is being run through DFU (hash 4bbc2da6ced02f55d09f1f22c3f0a38bbb169c9dbc1390c173c515e47af8c2b6), this will cause launch time delays
+[29Nov2024 18:25:01.875] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Nov2024 18:25:01.891] [Worker-Main-125/DEBUG] [ModernFix/]: Structure beautify:botanist_house_savanna is being run through DFU (hash df6e3d6b118b3e916cfad5293c9c45a64111b97e1ba86c96b0301f7916939501), this will cause launch time delays
+[29Nov2024 18:25:01.981] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[29Nov2024 18:25:01.981] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[29Nov2024 18:25:02.393] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[29Nov2024 18:25:02.394] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[29Nov2024 18:25:02.395] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of pneumaticcraft:villages/mechanic_house_plains
+[29Nov2024 18:25:02.401] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_plains
+[29Nov2024 18:25:04.538] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[29Nov2024 18:25:04.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Nov2024 18:25:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Nov2024 18:25:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Nov2024 18:25:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Nov2024 18:25:05.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[29Nov2024 18:25:05.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Nov2024 18:25:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[29Nov2024 18:25:05.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[29Nov2024 18:25:05.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[29Nov2024 18:25:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[29Nov2024 18:25:05.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[29Nov2024 18:25:05.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Nov2024 18:25:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[29Nov2024 18:25:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Nov2024 18:25:05.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[29Nov2024 18:25:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[29Nov2024 18:25:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[29Nov2024 18:25:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[29Nov2024 18:25:05.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[29Nov2024 18:25:05.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 18:25:05.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 18:25:05.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Nov2024 18:25:05.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Nov2024 18:25:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[29Nov2024 18:25:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Nov2024 18:25:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[29Nov2024 18:25:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[29Nov2024 18:25:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[29Nov2024 18:25:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[29Nov2024 18:25:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[29Nov2024 18:25:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Nov2024 18:25:05.842] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[29Nov2024 18:25:05.842] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[29Nov2024 18:25:05.884] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mercury_orbit
+[29Nov2024 18:25:05.885] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mercury_orbit
+[29Nov2024 18:25:05.885] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[29Nov2024 18:25:05.885] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[29Nov2024 18:25:05.886] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:glacio
+[29Nov2024 18:25:05.886] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:glacio
+[29Nov2024 18:25:05.886] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:venus_orbit
+[29Nov2024 18:25:05.886] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:venus_orbit
+[29Nov2024 18:25:05.887] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mars_orbit
+[29Nov2024 18:25:05.887] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mars_orbit
+[29Nov2024 18:25:05.887] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:venus
+[29Nov2024 18:25:05.887] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:venus
+[29Nov2024 18:25:05.888] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:moon
+[29Nov2024 18:25:05.888] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:moon
+[29Nov2024 18:25:05.888] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[29Nov2024 18:25:05.888] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[29Nov2024 18:25:05.889] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:earth_orbit
+[29Nov2024 18:25:05.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:earth_orbit
+[29Nov2024 18:25:05.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[29Nov2024 18:25:05.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[29Nov2024 18:25:05.891] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mercury
+[29Nov2024 18:25:05.891] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mercury
+[29Nov2024 18:25:05.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:moon_orbit
+[29Nov2024 18:25:05.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:moon_orbit
+[29Nov2024 18:25:05.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:glacio_orbit
+[29Nov2024 18:25:05.893] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:glacio_orbit
+[29Nov2024 18:25:05.893] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mars
+[29Nov2024 18:25:05.893] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mars
+[29Nov2024 18:25:05.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ae2:spatial_storage
+[29Nov2024 18:25:05.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ae2:spatial_storage
+[29Nov2024 18:25:05.902] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Nov2024 18:25:05.906] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29Nov2024 18:25:05.927] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[29Nov2024 18:25:05.927] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29Nov2024 18:25:05.941] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
