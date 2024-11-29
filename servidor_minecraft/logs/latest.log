@@ -2437,3 +2437,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 22:22:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Fluix Energy Connection]
 [29Nov2024 22:22:48.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Accelerator is an understatement]
 [29Nov2024 22:35:40.800] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[29Nov2024 22:42:51.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[29Nov2024 22:42:54.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[29Nov2024 22:43:36.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[29Nov2024 22:45:25.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.330494886211568
+[29Nov2024 22:45:25.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.750403120297733
+[29Nov2024 22:45:25.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.2859415268305163
+[29Nov2024 22:45:30.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.4760713436046444
+[29Nov2024 22:46:05.979] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[29Nov2024 22:46:28.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[29Nov2024 22:46:46.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.314618102711961
+[29Nov2024 22:46:46.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.7318546167407476
+[29Nov2024 22:47:17.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.2669203641367517
+[29Nov2024 22:47:17.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.676664493305168
+[29Nov2024 22:47:18.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.7381417952960874,-6.0,11.253419299869563
+[29Nov2024 22:47:18.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.7381417952960874,-6.0,11.253419299869563
+[29Nov2024 22:47:18.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.7084212103798109,-5.0,11.083534357827148
+[29Nov2024 22:47:18.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.6925183179556598,-5.0,10.992632312480566
+[29Nov2024 22:47:18.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.68400899728897,-5.0,10.943992440406873
+[29Nov2024 22:47:18.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.6794558294577655,-5.0,10.917966214634646
+[29Nov2024 22:47:18.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.6794558294577655,-5.0,10.904040100130885
+[29Nov2024 22:47:18.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.6794558294577655,-5.0,10.896588513916697
+[29Nov2024 22:47:18.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.6794558294577655,-5.0,10.892601318702077
+[29Nov2024 22:47:18.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -1.6794558294577655,-5.0,10.892601318702077
+[29Nov2024 22:49:34.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.26731525692071045
+[29Nov2024 22:49:34.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.6762930690088069
+[29Nov2024 22:49:34.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.3775169557538902
+[29Nov2024 22:49:34.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.7791039607222956
