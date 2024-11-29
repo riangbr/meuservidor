@@ -2477,3 +2477,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 16:49:48.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
 [29Nov2024 16:49:48.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
 [29Nov2024 16:49:48.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved too quickly! -9.948368388300196,-2.0,-9.406279224754996
+[29Nov2024 17:08:45.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz lost connection: Disconnected
+[29Nov2024 17:08:45.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz left the game

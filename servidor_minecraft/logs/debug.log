@@ -16357,3 +16357,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 17:00:45.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Nov2024 17:05:17.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1012.55, y=52.00, z=-58.24], dimensionLocationPath overworld
 [29Nov2024 17:05:17.391] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1012.55, y=52.00, z=-58.24] in list []
+[29Nov2024 17:05:45.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 17:05:45.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 17:05:45.245] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[29Nov2024 17:08:45.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatatinhaFeliz lost connection: Disconnected
+[29Nov2024 17:08:45.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz left the game
+[29Nov2024 17:08:45.858] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['BatatinhaFeliz'/149, l='ServerLevel[world]', x=1022.04, y=52.00, z=-64.44, removed=UNLOADED_WITH_PLAYER]
+[29Nov2024 17:10:45.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 17:10:45.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
