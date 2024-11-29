@@ -762,33 +762,9 @@
     },
     "done": true
   },
-  "ae2:main/charger": {
-    "criteria": {
-      "certus": "2024-11-29 01:29:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-11-29 01:11:59 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-11-29 01:11:53 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/fluix": {
-    "criteria": {
-      "certus": "2024-11-29 01:34:08 +0000"
-    },
-    "done": true
-  },
-  "beautify:lamps": {
-    "criteria": {
-      "requirement": "2024-11-29 01:29:08 +0000"
     },
     "done": true
   },
@@ -798,15 +774,33 @@
     },
     "done": true
   },
-  "create:copper": {
-    "criteria": {
-      "0": "2024-11-29 01:29:08 +0000"
-    },
-    "done": true
-  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2024-11-29 01:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-11-29 01:11:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-11-29 01:11:59 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2024-11-29 01:29:08 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-11-29 01:29:08 +0000"
     },
     "done": true
   },
@@ -816,15 +810,21 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "ae2:main/charger": {
     "criteria": {
-      "fortress": "2024-11-29 01:11:59 +0000"
+      "certus": "2024-11-29 01:29:39 +0000"
     },
     "done": true
   },
   "ae2:main/charged_quartz": {
     "criteria": {
       "certus": "2024-11-29 01:32:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2024-11-29 01:34:08 +0000"
     },
     "done": true
   },
