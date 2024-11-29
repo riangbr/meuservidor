@@ -79,3 +79,6 @@
 [29Nov2024 01:29:57.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Disconnected
 [29Nov2024 01:29:57.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
 [29Nov2024 01:32:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Shocking]
+[29Nov2024 01:34:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Unnatural]
+[29Nov2024 01:36:18.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: od4 lost connection: Disconnected
+[29Nov2024 01:36:18.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 left the game

@@ -780,6 +780,12 @@
     },
     "done": true
   },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2024-11-29 01:34:08 +0000"
+    },
+    "done": true
+  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2024-11-29 01:29:08 +0000"
@@ -813,6 +819,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-11-29 01:11:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2024-11-29 01:32:41 +0000"
     },
     "done": true
   },
