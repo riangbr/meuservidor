@@ -69,3 +69,13 @@
 [29Nov2024 01:17:42.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc has reached the goal [Half a flight]
 [29Nov2024 01:19:11.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! 0.17196695715870192,-11.423845585436226,-2.3312583670644784
 [29Nov2024 01:22:10.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc moved too quickly! -6.969763364418668,-2.905402495000473,7.2431684512537995
+[29Nov2024 01:29:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [It's Chargin' Time !]
+[29Nov2024 01:29:41.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/orientation/BlockOrientation
+[29Nov2024 01:29:41.219] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/networking/events/GridPowerStorageStateChanged$PowerEventType
+[29Nov2024 01:29:41.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/networking/GridFlags
+[29Nov2024 01:29:41.228] [Server thread/INFO] [AE2:S/]: Assigning ME player id 0 to Minecraft profile 43bb1cf4-6f15-3a7a-8434-89263332c414 (od4)
+[29Nov2024 01:29:41.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/integration/modules/igtooltip/GridNodeState
+[29Nov2024 01:29:41.258] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/core/localization/InGameTooltip
+[29Nov2024 01:29:57.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rianofc lost connection: Disconnected
+[29Nov2024 01:29:57.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rianofc left the game
+[29Nov2024 01:32:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Shocking]
