@@ -5,3 +5,5 @@
 [29Nov2024 00:13:00.478] [Server thread/INFO] [ping-wheel/]: Channel update: od4 -> default
 [29Nov2024 00:20:06.134] [Server thread/ERROR] [mezz.jei.common.transfer.BasicRecipeTransferHandlerServer/]: Tried to transfer recipe but was unable to remove any items from the inventory.
 [29Nov2024 00:24:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Ice Bucket Challenge]
+[29Nov2024 00:40:26.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: od4 lost connection: Disconnected
+[29Nov2024 00:40:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 left the game
