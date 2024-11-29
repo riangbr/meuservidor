@@ -2418,3 +2418,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 16:12:40.566] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
 [29Nov2024 16:12:40.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [29Nov2024 16:13:33.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[29Nov2024 16:15:54.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[29Nov2024 16:16:11.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[29Nov2024 16:16:11.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[29Nov2024 16:16:21.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[29Nov2024 16:16:25.989] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[29Nov2024 16:16:25.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[29Nov2024 16:18:18.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[29Nov2024 16:19:10.228] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[29Nov2024 16:19:21.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1049, y=64, z=-86} BlockPos{x=1049, y=62, z=-85}
+[29Nov2024 16:20:56.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.3310772603267864
+[29Nov2024 16:20:56.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.8578932186949793
+[29Nov2024 16:20:56.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.4152280127139587
+[29Nov2024 16:20:56.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.990885084215435
+[29Nov2024 16:20:56.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 2.0
+[29Nov2024 16:20:56.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 2.0
+[29Nov2024 16:20:58.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.2661306956284797
+[29Nov2024 16:20:58.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.6746626204141215
+[29Nov2024 16:20:58.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 16:20:58.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 1.0
+[29Nov2024 16:21:01.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.3556396911535913
+[29Nov2024 16:21:01.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.8661068304993371
+[29Nov2024 16:21:01.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BatatinhaFeliz) moved wrongly! 0.3230933545018573
+[29Nov2024 16:21:10.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[29Nov2024 16:21:44.812] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
