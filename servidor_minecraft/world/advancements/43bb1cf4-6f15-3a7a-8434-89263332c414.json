@@ -603,8 +603,12 @@
       "bellpepper_seed": "2024-11-28 16:02:16 +0000",
       "elderberry_seed": "2024-11-28 17:10:38 +0000",
       "tomato_seed": "2024-11-28 04:18:53 +0000",
+      "pepper_seed": "2024-11-29 22:31:36 +0000",
       "chile_pepper_seed": "2024-11-28 16:04:09 +0000",
+      "cabbage_seed": "2024-11-29 22:31:53 +0000",
       "cucumber_seed": "2024-11-28 15:54:52 +0000",
+      "kale_seed": "2024-11-29 22:31:55 +0000",
+      "soybean_seed": "2024-11-29 22:31:22 +0000",
       "grape_seed": "2024-11-28 16:04:23 +0000",
       "broccoli_seed": "2024-11-28 15:54:40 +0000",
       "lettuce_seed": "2024-11-29 22:12:54 +0000",
@@ -628,11 +632,15 @@
     "criteria": {
       "lettuce_seed": "2024-11-29 22:12:54 +0000",
       "sweetpotato_seed": "2024-11-28 16:35:59 +0000",
+      "pepper_seed": "2024-11-29 22:31:36 +0000",
       "chile_pepper_seed": "2024-11-28 16:04:09 +0000",
+      "cabbage_seed": "2024-11-29 22:31:53 +0000",
       "cucumber_seed": "2024-11-28 15:54:52 +0000",
       "bellpepper_seed": "2024-11-28 16:02:16 +0000",
       "corn_seed": "2024-11-28 15:55:52 +0000",
-      "broccoli_seed": "2024-11-28 15:54:40 +0000"
+      "broccoli_seed": "2024-11-28 15:54:40 +0000",
+      "kale_seed": "2024-11-29 22:31:55 +0000",
+      "soybean_seed": "2024-11-29 22:31:22 +0000"
     },
     "done": false
   },
@@ -857,6 +865,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-11-29 22:35:19 +0000"
+    },
+    "done": true
+  },
   "ae2:main/glass_cable": {
     "criteria": {
       "certus": "2024-11-29 22:22:28 +0000"
@@ -866,6 +880,12 @@
   "ae2:main/growth_accelerator": {
     "criteria": {
       "certus": "2024-11-29 22:22:48 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-11-29 22:35:10 +0000"
     },
     "done": true
   },
