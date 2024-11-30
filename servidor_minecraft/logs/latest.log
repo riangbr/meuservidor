@@ -2471,3 +2471,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 23:16:59.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
 [29Nov2024 23:18:28.942] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
 [29Nov2024 23:26:53.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Mine? Mine? Mine?]
+[29Nov2024 23:35:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [The Andesite Age]
+[29Nov2024 23:46:21.157] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[29Nov2024 23:46:32.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[29Nov2024 23:46:32.192] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[29Nov2024 23:46:49.872] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[29Nov2024 23:46:49.875] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[29Nov2024 23:47:21.542] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/desht/pneumaticcraft/common/block/DisplayTableBlock$Leg
+[29Nov2024 23:47:22.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: od4 has made the advancement [Bonk!]
+[29Nov2024 23:48:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Left hanging]
+[29Nov2024 23:49:13.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [You Vandal!]
+[29Nov2024 23:49:13.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Let's Torque About Tools]
+[29Nov2024 23:49:13.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [You spin me right round]
+[29Nov2024 23:49:14.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/desht/pneumaticcraft/common/block/PressureTubeBlock$TubeHitInfo$PartType
+[29Nov2024 23:49:16.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement [Totally Tubular Transfer]
+[29Nov2024 23:49:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatatinhaFeliz has made the advancement ['Cause you're hot then you're cold]
+[29Nov2024 23:52:21.350] [pool-14-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=53, y=71, z=-1077}
+[29Nov2024 23:52:25.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind

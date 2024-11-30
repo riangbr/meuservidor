@@ -878,9 +878,21 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-11-29 23:35:00 +0000"
+    },
+    "done": true
+  },
   "ae2:main/glass_cable": {
     "criteria": {
       "certus": "2024-11-29 22:22:28 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-11-29 23:47:22 +0000"
     },
     "done": true
   },
